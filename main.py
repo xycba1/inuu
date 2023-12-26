@@ -40,7 +40,7 @@ def main():
 def show_homepage():
     st.title("AI Ku")
     ai_symbol_path = "ai2.png"
-    st.image(ai_symbol_path, width=100, caption="Logo AI Ku")
+    st.image(ai_symbol_path, width=100, caption="")
     st.markdown("""
         AI ini dibuat oleh mahasiswa semester III 
         Kampus Bina Sarana Informatika Tasikmalaya,
