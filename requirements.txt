@@ -1,5 +1,5 @@
 streamlit
-google-generativeai          0.3.2
-googleapis-common-protos     1.62.0
-translate                    3.6.1
-langdetect                   1.0.9
+google-generativeai          
+googleapis-common-protos     
+translate                    
+langdetect                   
