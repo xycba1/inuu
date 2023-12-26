@@ -3,4 +3,4 @@ google-generativeai
 googleapis-common-protos     
 translate                    
 langdetect                   
-dotenv
+load_dotenv
