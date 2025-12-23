@@ -4,3 +4,4 @@ googleapis-common-protos
 translate                    
 langdetect                   
 load_dotenv
+pillow>=10.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
