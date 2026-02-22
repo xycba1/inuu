@@ -4,3 +4,4 @@ googleapis-common-protos
 translate                    
 langdetect                   
 load_dotenv
+tornado>=6.5 # not directly required, pinned by Snyk to avoid a vulnerability
